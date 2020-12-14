@@ -25,6 +25,7 @@ Aufgabe ist es also diese zwei Funktionalitäten in der Klasse ArrayUtils zu ers
 - Gibt dieses Array als String auf der Konsole wieder aus
 - Benutzt bitte einen StringBuilder, um die Konsolenausgabe zu erstellen
 - Die Ausgabe sollte so aussehen: [int, int, int]
+  - Überlegt euch, wie ihr die Kommata am besten implementiert
 
 ### Tipps:
 
