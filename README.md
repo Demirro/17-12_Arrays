@@ -9,6 +9,8 @@ Diesmal lade ich nur die Lösung hoch. Also erstellt zu aller Erst ein neues Pro
 
 ### 📝 Aufgabe:
 
+![#f03c15]__Der Code auf Github ist nur die Lösung, keine Vorlage__
+
 In Börges Seminarstunde habt ihr bereits eine Methode geschrieben, die Arrays vergrößern kann. Ähnlich dazu kann es ja sein, dass man ein Array verkleinern möchte. Das könnte in Programmen wichtig sein, die nur mit limitierten Arbeitsspeicher arbeiten können. Außerdem werdet ihr vielleicht schon gemerkt haben, dass man Arrays nicht einfach auf die Konsole ausgeben kann, zumindest nicht einfach mit *System.out.println(__array__);*.
 Aufgabe ist es also diese zwei Funktionalitäten in der Klasse ArrayUtils zu erstellen.
 
